@@ -1,0 +1,42 @@
+body {
+
+}
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+display: block;
+height: 400px;
+max-width: 100%;
+line-height: 1;
+width: 100%;
+}
+.item active {
+          height: 400px;
+}
+.item {
+          height: 400px;
+}
+.meni  {
+  margin-left: 1060px;
+
+}
+h3  {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+.tabela {
+border: 1px black solid;
+}
+
+.thumbnail:hover {
+    opacity: 0.5;
+}
+.caption:hover {
+  transform: scale(1.1);
+}
+
+p:hover {
+  text-decoration: underline;
+  transform: scale(1.1);
+}
